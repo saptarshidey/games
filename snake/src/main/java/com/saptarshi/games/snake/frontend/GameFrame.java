@@ -5,7 +5,7 @@ import javax.swing.JFrame;
 public class GameFrame extends JFrame {
 
     public GameFrame() {
-        this.add(new GamePanel(600, 600, 40, 200));
+        this.add(new GamePanel(600, 600, 30, 200));
         this.setTitle("Old School Snake");
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         this.setResizable(false);

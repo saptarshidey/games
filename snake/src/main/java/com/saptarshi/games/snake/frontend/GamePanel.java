@@ -241,8 +241,8 @@ public class GamePanel extends JPanel implements ActionListener, KeyListener {
     }
 
     @Override
-    protected void paintComponent(Graphics g) {
-        super.paintComponent(g);
+    public void paint(Graphics g) {
+        super.paint(g);
         draw(g);
     }
 
