@@ -11,5 +11,20 @@
 /snake/.vscode/
 /snake/build.log
 /snake/dependency-reduced-pom.xml
+
 /.DS_Store
+
+/treasure-island/.idea/
+/treasure-island/*.iml
+/treasure-island/target/
+/treasure-island/build/
+/treasure-island/dist/
+/treasure-island/.settings/
+/treasure-island/*.classpath
+/treasure-island/*.project
+/treasure-island/.manager/
+/treasure-island/.scala_dependencies/
+/treasure-island/.vscode/
+/treasure-island/build.log
+/treasure-island/dependency-reduced-pom.xml
 
